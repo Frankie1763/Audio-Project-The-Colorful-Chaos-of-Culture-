@@ -1,0 +1,15 @@
+html, body {
+	height: 100%;
+	padding: 0;
+}
+
+body {
+	/* background-image: url(../image/globe.png); */
+	background-repeat:round;
+	background-color: black;
+	background-size: 250px;
+}
+#circle {
+	background-color: black;
+	/* opacity: 0.9; */
+}
